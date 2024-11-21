@@ -1,7 +1,8 @@
 NOME: GABRIEL TORRES FERNANDES
 RM: 553635
 
-LINK VIDEO APRESENTAÇÃO --> 
+LINK VIDEO APRESENTAÇÃO --> https://youtu.be/BJv6v3zT9J4
+
 LINK DO FIGMA --> https://www.figma.com/design/Pr9HLUnyNAimr5NBTfhPgH/GS_?node-id=0-1&node-type=canvas&t=VNqpdktUrtwLU5IH-0
 
 ------------------------------------------------------------------------------------------------------------------------------
